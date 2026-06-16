@@ -12,7 +12,7 @@ How did the 2026 Iran Market Shock affect global energy prices, fuel costs, infl
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard-preview.png)
 
 ## Tools Used
 
